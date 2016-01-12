@@ -1,0 +1,28 @@
+name: Textus Design Solutions
+favicon: null
+layout_spectrum: 0.9538745381869376
+typography_spectrum: 0.39179778494872153
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.34721210901625454
+  lightness: 0.46718656830489635
+  saturation: 0.8467039850074798
+  rhythmicContrast: 0.7870073618832976
+purpose: []
