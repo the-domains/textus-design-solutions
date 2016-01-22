@@ -2,17 +2,24 @@
     <channel>
         <title><![CDATA[Textus Design Solutions]]></title>
         <description><![CDATA[Textus Design Solutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/textus-design-solutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 19:18:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 16:46:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/textus-design-solutions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pennzoil Showcase]]></title>
+            <description><![CDATA[<article><h1>Pennzoil Showcase</h1><p>Portfolio-Pennzoil-Christopher-Earnhart</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34a01aee7af0935fbe14c22a20158a7435ace86f.png"></article>]]></description>
+            <link>https://thegrid.ai/textus-design-solutions/6b0977a9-518d-4295-9ed4-7a4550f36780/index.html</link>
+            <guid isPermaLink="false">6b0977a9-518d-4295-9ed4-7a4550f36780</guid>
+            <pubDate>Fri, 22 Jan 2016 16:46:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Christopher Earnhart]]></title>
             <description><![CDATA[<article><h1>Christopher Earnhart</h1><p>Welcome to TDS, I'm Christopher Earnhart,
  Founder, and on most occasions, sole designer and developer.  So, unless there is a 
 project that requires heavy lifting, or extremely short deadlines, I 
-take on most projects solo and one-at-a-time. Each project is priority one, and  I am a hands-on, responsive, leader adapting to my clients' needs and wants until the project is complete.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8ac7c2456d9fe5e41cff29eb3d79e0762a5d6a7.jpg"></article>]]></description>
-            <link>undefined7dc9d8f2-849e-4e35-88d5-bb390bac9216/index.html</link>
+take on most projects solo and one-at-a-time. Each project is priority one, and  I am a hands-on, responsive, leader adapting to my clients' needs and wants until the project is complete.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cb07eedf0d3d6130286f72b4428d045ab7ea205.jpg"></article>]]></description>
+            <link>https://thegrid.ai/textus-design-solutions/7dc9d8f2-849e-4e35-88d5-bb390bac9216/index.html</link>
             <guid isPermaLink="false">7dc9d8f2-849e-4e35-88d5-bb390bac9216</guid>
             <pubDate>Tue, 12 Jan 2016 19:18:17 GMT</pubDate>
         </item>
